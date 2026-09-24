@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The goal of this project is to determine if a machine learning model can accurately predict Neutron Porosity (`NPHI_frac`) in a completely unseen, blind well using standard wireline physical logs. Predicting porosity automatically helps reservoir engineers and petrophysicists estimate hydrocarbon volumes in new wells without running expensive logging tools.
 
 ### Physical Log Features Used:
@@ -20,7 +20,7 @@ The goal of this project is to determine if a machine learning model can accurat
 
 ---
 
-## 📊 Milestone 1 Progress & Baselines
+## Milestone 1 Progress & Baselines
 
 An honest **Leave-One-Well-Out split** was established by completely hiding **Well_B** from the training dataset to evaluate true deployment physics.
 
@@ -30,7 +30,7 @@ The initial baseline benchmarks logged on the blind test well are:
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 ```text
 SUBSURFACE_CAPSTONE/
 ├── data/
@@ -44,7 +44,7 @@ SUBSURFACE_CAPSTONE/
 
 ---
 
-## 🚀 How to Run this Project
+## How to Run this Project
 
 1. **Clone the repository:**
    ```bash
