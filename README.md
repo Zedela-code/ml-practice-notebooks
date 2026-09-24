@@ -1,3 +1,4 @@
+ HEAD
 # Subsurface Capstone Project: Porosity Prediction from Well Logs
 
 **Author:** Zedela Oluoch  
@@ -56,3 +57,7 @@ SUBSURFACE_CAPSTONE/
 
 3. **Run the code:**
    Navigate to `notebooks/capstone.ipynb` and select **Run All Cells** to reproduce our EDA, data split, and baseline models.
+
+# ml-practice-notebooks
+My private machine learning and deep learning files
+ 730982aa999219fdf4f6cbd657fa85b338094b9f
