@@ -1,0 +1,11 @@
+timestamp,track,model,split,RMSE,R2,notes
+2026-09-24 03:04,A,Naive Mean,Blind_Well_B,0.1107,-0.0008,Predicts training global mean NPHI
+2026-09-24 03:04,A,Linear Regression,Blind_Well_B,0.0308,0.9224,Standard multilinear regression with physical logs
+2026-09-24 03:12,A,Naive Mean,Blind_Well_B,0.1107,-0.0008,Predicts training global mean NPHI
+2026-09-24 03:12,A,Linear Regression,Blind_Well_B,0.0308,0.9224,Standard multilinear regression with physical logs
+2026-09-24 03:21,A,Naive Mean,Blind_Well_B,0.1107,-0.0008,Predicts training global mean NPHI
+2026-09-24 03:21,A,Linear Regression,Blind_Well_B,0.0308,0.9224,Standard multilinear regression with physical logs
+2026-09-24 03:33,A,Naive Mean,Blind_Well_B,0.1107,-0.0008,Predicts training global mean NPHI
+2026-09-24 03:33,A,Linear Regression,Blind_Well_B,0.0308,0.9224,Standard multilinear regression with physical logs
+2026-09-24 03:34,A,Naive Mean,Blind_Well_B,0.1107,-0.0008,Predicts training global mean NPHI
+2026-09-24 03:34,A,Linear Regression,Blind_Well_B,0.0308,0.9224,Standard multilinear regression with physical logs
